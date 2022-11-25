@@ -1,0 +1,10 @@
+#title {
+    text-align: center;
+    color: rgb(255, 167, 35);
+}
+.products {
+    display: inline-block;
+}
+p {
+    text-align: center;
+}
