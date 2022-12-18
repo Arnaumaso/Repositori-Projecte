@@ -2650,6 +2650,14 @@ textarea.form-control-lg {
 .form-floating {
   position: relative;
 }
+.imatge{
+  text-align: center;
+}
+
+.Text{
+  text-align: center;
+  color: #dee2e6;
+}
 .form-floating > .form-control,
 .form-floating > .form-select {
   height: calc(3.5rem + 2px);
