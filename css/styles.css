@@ -7730,6 +7730,12 @@ textarea.form-control-lg {
   color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) !important;
 }
 
+.textoo {
+  text-align: center; 
+  background-color: green;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 .text-warning {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;
